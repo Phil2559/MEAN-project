@@ -1,0 +1,14 @@
+*.vagrant
+*.log
+*.csv
+*.dat
+*.out
+*.pid
+*.gz
+*.tmp
+*.bak
+*.swp
+Thumbs.db
+ehthumbs.db
+logs/
+build/
