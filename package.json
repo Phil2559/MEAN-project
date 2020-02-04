@@ -1,0 +1,25 @@
+{
+  "name": "meanproject",
+  "version": "0.0.1",
+  "description": "desc",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Phil2559/MEAN-project.git"
+  },
+  "keywords": [
+    "keyword"
+  ],
+  "author": "philip",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Phil2559/MEAN-project/issues"
+  },
+  "homepage": "https://github.com/Phil2559/MEAN-project#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
